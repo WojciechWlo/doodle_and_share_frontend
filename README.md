@@ -1,6 +1,6 @@
 # Doodle and Share
 
-project divided into backend and frontend. It is supposed to offer the ability to register new users, draw simple pictures and share them (or not) with other users. The project is designed to teach the following technologies:
+Project divided into backend and frontend. It is supposed to offer the ability to register new users, draw simple pictures and share them (or not) with other users. The project is designed to teach the following technologies:
 
 - Node.js
 - JavaScript
